@@ -1,3 +1,4 @@
 # Optimizing_Mobility_Operations_SoCal
 Presentation of the Project performed in the SoCal Datathon
-<img width="1204" height="540" alt="image" src="https://github.com/user-attachments/assets/44633458-729d-4fbf-a8e6-932166ec6a8b" />
+<img width="694" height="521" alt="image" src="https://github.com/user-attachments/assets/82d0f76d-90b8-4dd4-97fd-3aace32f2d9b" />
+
